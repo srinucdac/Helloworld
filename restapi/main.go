@@ -1,8 +1,9 @@
 package main
+
 import (
 	"fmt"
 
-	"github.com/srinucdac/rest_api/utils"
+	"github.com/srinucdac/utils"
 
 )
 

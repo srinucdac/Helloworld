@@ -1,6 +1,6 @@
 package utils
 
-//import "strings"
+import "strings"
 
 // ReverseString reverses the given string.
 func ReverseString(s string) string {
